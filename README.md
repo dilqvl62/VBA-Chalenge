@@ -16,3 +16,4 @@ Creating a script in VBA that loops through all the stocks for one year.
    * Create two new columns, one called Parent Category and another called Sub-Category, to split the Category and Sub-Category column into the two 
    new, separate columns.
 
+![Screen Shot 2023-10-23 at 12 57 35 PM](https://github.com/dilqvl62/VBA-Chalenge/assets/107519883/a189929f-8262-474f-874b-b33060fe0a91)
