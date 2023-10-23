@@ -22,4 +22,15 @@ Creating a script in VBA that loops through all the stocks for one year.
   
 ![Screen Shot 2023-10-23 at 1 00 47 PM](https://github.com/dilqvl62/VBA-Chalenge/assets/107519883/8609a68c-2fdf-41fa-9945-1d2b294f31ff)
 
+*convert Launched_at and deadline column into Excel date format*
+
+* Create a new sheet with a pivot table **and** a pivot-chart line graph that visualizes this new table.
+
 ![image](https://github.com/dilqvl62/VBA-Chalenge/assets/107519883/d7ffca3e-7c37-4b6f-9098-cf3b266496eb)
+
+# Crowfunding Goal Analysis
+
+* Create a new sheet with 8 columns:
+   * Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
+
+![image](https://github.com/dilqvl62/VBA-Chalenge/assets/107519883/d96d545a-fb11-4da6-9e1a-3c22a202c292)
