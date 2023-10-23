@@ -33,4 +33,5 @@ Creating a script in VBA that loops through all the stocks for one year.
 * Create a new sheet with 8 columns:
    * Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
 
+
 ![image](https://github.com/dilqvl62/VBA-Chalenge/assets/107519883/d96d545a-fb11-4da6-9e1a-3c22a202c292)
