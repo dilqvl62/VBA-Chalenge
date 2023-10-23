@@ -9,7 +9,7 @@ Creating a script in VBA that loops through all the stocks for one year.
 # Objectives
 **Step 1**
  * Use conditional formatting to fill each cell in the outcome column with a different color
-  * Create a new column called Percent Funded that uses a formula to find how much money a campaign made relative to its initial funding goal.
+   * Create a new column called Percent Funded that uses a formula to find how much money a campaign made relative to its initial funding goal.
 * Use conditional formatting to fill each cell in the Percent Funded column according to a three-color scale.
    * Create a new column called Average Donation that uses a formula to find how much each project backer paid on average.
   
