@@ -18,7 +18,7 @@ Creating a script in VBA that loops through all the stocks for one year.
 
   ![Screen Shot 2023-10-23 at 12 59 44 PM](https://github.com/dilqvl62/VBA-Chalenge/assets/107519883/6a8d0479-d93f-4fd1-a605-668092ff3aca)
 
-
+* Create a new sheet with a pivot table that analyzes the initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category **and** a stacked-column pivot chart that can be filtered by country and parent category based on the table created.
   
 ![Screen Shot 2023-10-23 at 1 00 47 PM](https://github.com/dilqvl62/VBA-Chalenge/assets/107519883/8609a68c-2fdf-41fa-9945-1d2b294f31ff)
 
